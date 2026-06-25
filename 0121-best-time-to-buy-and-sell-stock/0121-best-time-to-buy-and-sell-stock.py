@@ -8,10 +8,7 @@ class Solution:
             if price < running_min:
                 running_min = price
                 
-            current_profit = price - running_min
-            
-        
-            if current_profit > max_profit:
-                max_profit = current_profit
+            if price - running_min > max_profit:
+                max_profit = price - running_min
                 
         return max_profit
