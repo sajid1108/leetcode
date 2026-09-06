@@ -20,4 +20,12 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sajid1108/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/sajid1108/leetcode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/sajid1108/leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
