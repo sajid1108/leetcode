@@ -7,6 +7,7 @@
 | [0066-plus-one](https://github.com/sajid1108/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sajid1108/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sajid1108/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajid1108/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +29,12 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/sajid1108/leetcode/tree/master/0707-design-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajid1108/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajid1108/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
